@@ -303,7 +303,7 @@ class SymbolManager extends AnnotationManager<Symbol> {
                   [Expressions.get, 'fontNames'],
                   [
                     Expressions.literal,
-                    ["Open Sans Regular", "Arial Unicode MS Regular"]
+                    ["Noto Sans Regular"]
                   ],
                 ],
           textField: [Expressions.get, 'textField'],
